@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Context-Todoer/static/css/main.7d83d89e.chunk.css",
+    "main.js": "/React-Context-Todoer/static/js/main.7caf11fc.chunk.js",
+    "main.js.map": "/React-Context-Todoer/static/js/main.7caf11fc.chunk.js.map",
+    "runtime-main.js": "/React-Context-Todoer/static/js/runtime-main.d1648024.js",
+    "runtime-main.js.map": "/React-Context-Todoer/static/js/runtime-main.d1648024.js.map",
+    "static/js/2.574072eb.chunk.js": "/React-Context-Todoer/static/js/2.574072eb.chunk.js",
+    "static/js/2.574072eb.chunk.js.map": "/React-Context-Todoer/static/js/2.574072eb.chunk.js.map",
+    "index.html": "/React-Context-Todoer/index.html",
+    "static/css/main.7d83d89e.chunk.css.map": "/React-Context-Todoer/static/css/main.7d83d89e.chunk.css.map",
+    "static/js/2.574072eb.chunk.js.LICENSE.txt": "/React-Context-Todoer/static/js/2.574072eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1648024.js",
+    "static/js/2.574072eb.chunk.js",
+    "static/css/main.7d83d89e.chunk.css",
+    "static/js/main.7caf11fc.chunk.js"
+  ]
+}
